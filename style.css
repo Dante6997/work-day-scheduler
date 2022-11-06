@@ -36,11 +36,17 @@ textarea{
   border-top: 1px solid white;;
 }
 
+.save-button{
+  background-color: #06AED5;
+}
+
 .hour {
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
 }
+
+
 
 .past {
   background-color: #d3d3d3;
